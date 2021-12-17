@@ -1,0 +1,5 @@
+
+1. self error prediction
+2. node correlation merging
+3. Switch LSTM (lstm that has a min activation energy) for retaining long term memory
+    3.1 train on long sequences, keeping count and recording "events" then recalling if they happened or not
